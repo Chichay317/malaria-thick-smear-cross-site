@@ -1,0 +1,10 @@
+ultralytics
+pandas
+numpy
+matplotlib
+pillow
+opencv-python
+scipy
+pyyaml
+pypdf
+requests

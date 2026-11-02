@@ -1,0 +1,13 @@
+site,model,cutoff,t,n,median_abs_err,ci,within_25pct,total_ratio
+tz,never seen (F),fixed 0.25,0.25,111,203.7,172-282,0,2.8
+tz,never seen (F),tuned on local val,0.75,111,58.3,32-82,36,1.26
+tz,50 local images,fixed 0.25,0.25,111,25.0,20-32,51,1.25
+tz,50 local images,tuned on local val,0.35,111,21.4,17-27,56,1.03
+tz,home (C),fixed 0.25,0.25,111,22.2,18-25,61,1.12
+tz,home (C),tuned on local val,0.25,111,22.2,18-25,61,1.12
+gh,never seen (E),fixed 0.25,0.25,598,94.5,93-95,0,0.17
+gh,never seen (E),tuned on local val,0.05,598,63.3,60-67,14,0.68
+gh,50 local images,fixed 0.25,0.25,598,12.0,11-13,74,1.01
+gh,50 local images,tuned on local val,0.3,598,12.1,10-14,72,0.93
+gh,home (B),fixed 0.25,0.25,598,11.6,10-13,77,0.9
+gh,home (B),tuned on local val,0.2,598,9.3,8-10,79,0.97
